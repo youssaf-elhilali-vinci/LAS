@@ -1,0 +1,5 @@
+# Gestion de bibliothèque
+
+CFLAGS=-std=c11 -pedantic -Wvla -Wall -Werror -D_DEFAULT_SOURCE -g
+
+all: biblio biblio_test
